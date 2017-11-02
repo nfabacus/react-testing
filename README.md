@@ -12,4 +12,5 @@ npm run test:watch
 ```
 
 ### Notes
+'beforeEach' in parent 'describe' will run before each 'it' even 'it' is nested in another child describe.
 
